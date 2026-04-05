@@ -1,4 +1,5 @@
 
+
 def lista1():
     x = int(input("ingresa cuantos numeros vas a ingresar"))
     lista = []

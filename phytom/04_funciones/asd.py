@@ -1,5 +1,5 @@
 
-
+# calcular cuantos billetes de 100, 50, 20 y 5 se necesitan para pagar un salario dado por el usuario, el salario debe ser un múltiplo de 5.
 
 def salario():
     sueldo = int(input("ingresa el salario del empleado"))

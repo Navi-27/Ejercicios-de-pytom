@@ -23,6 +23,10 @@ for i in range(1, CantEstudiantes+1):
             print(f"la nota definitiva de {materia} es: {round(definitiva,2)} por lo tanto paso")    
 
 
+
+
+# ejercicio pero con while 
+
 # print("Bienvenido al sistema de notas")
 # CantEstudiantes = int(input("ingresa la cantidad de estudiantes: "))
 # definitiva = 0
